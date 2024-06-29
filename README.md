@@ -37,4 +37,4 @@ Build Decision Tree Classifier to predict the outcomes using the dataset
 -  `classification_report` : Build a text report showing the main classification metrics.
 
 ## Conclusion
-This project offers insights of the prediction model of customers for the campaign. Using `DecisionTreeClassifier`, we get a testing acuracy score of 84.9% for the given dataset.
+This project offers insights of the prediction model of customers for the campaign. Using `DecisionTreeClassifier`, we get a testing accuracy score of 84.9% for the given dataset.
